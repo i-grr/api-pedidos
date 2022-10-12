@@ -1,4 +1,4 @@
-# 📦 API DE Pedidos
+# 📦 API DE PEDIDOS
 
 > Sistema de gerenciamento de pedidos
 
